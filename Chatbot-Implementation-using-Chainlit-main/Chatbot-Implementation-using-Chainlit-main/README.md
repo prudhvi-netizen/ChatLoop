@@ -36,3 +36,13 @@ chainlit init
 chainlit run app.py
 ```
 
+### 📦 Folder Structure
+```text
+chatloop/
+├── app.py                 # Chainlit main entry
+├── template.py            # Chat template for UI
+├── requirements.txt       # Python dependencies
+├── .gitignore
+├── README.md
+```
+
