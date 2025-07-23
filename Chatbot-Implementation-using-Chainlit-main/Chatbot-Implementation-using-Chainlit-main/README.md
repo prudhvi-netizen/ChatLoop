@@ -1,22 +1,3 @@
-# Chatbot-Implementation-using-Chainlit
-
-### 📦 Folder Structure
-```text
-chatloop/
-├── app.py                 # Chainlit main entry
-├── template.py            # Chat template for UI
-├── requirements.txt       # Python dependencies
-├── .gitignore
-├── README.md
-```
-
-Layer        | Tech
--------------|--------------------------
-LLM          | OpenAI GPT-4 (via API)
-Framework    | Chainlit
-Backend      | Python
-Environment  | Conda / Virtualenv
-Deployment   | Localhost or Streamlit
 
 
 ## How to run?
